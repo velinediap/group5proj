@@ -33,8 +33,8 @@
 <body style="background-image: url('images/bg.jpg'); margin: 0px;">
 	<div style="background-color: rgba(0,0,0,0.8); padding: 20px 0px;"> 
 		<center>
-			<a href="home.html" style="" class="menu">Home</a>
-			<a href="piglet.html" style="" class="menu">Products</a>
+			<a href="index.php" style="" class="menu">Home</a>
+			<a href="Piglet.php" style="" class="menu">Products</a>
 			<a href="#" style="" class="menu-active">About Us</a>
 		</center>
 	</div>

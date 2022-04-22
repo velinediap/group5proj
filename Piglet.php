@@ -33,18 +33,18 @@
 <body style="background-image: url('images/bg.jpg'); margin: 0px;">
 	<div style="background-color: rgba(0,0,0,0.8); padding: 20px 0px;"> 
 		<center>
-			<a href="home.html" style="" class="menu">Home</a>
-			<a href="piglet.html" style="" class="menu-active">Products</a>
-			<a href="about_us.html" style="" class="menu">About Us</a>
+			<a href="index.php" style="" class="menu">Home</a>
+			<a href="Piglet.php" style="" class="menu-active">Products</a>
+			<a href="About.php" style="" class="menu">About Us</a>
 		</center>
 	</div>
 	<div>
 		<center>
 			<div style="background: rgba(204, 201, 201,0.6);width: 90%;border: 2px solid black; border-radius: 10px;box-shadow: 0 0 20px rgba(0,0,0,1);margin: 20px 0px;">
 				</br>
-				<a href="piglet.html" style="font-size: 30px;text-decoration: none;border-bottom: 2px solid #000; margin: 20px 30px 0px 30px; font-weight: bolder;color: black">Piglet Lines</a>
-				<a href="fattener.html" style="font-size: 30px;text-decoration: none; margin: 20px 30px 0px 30px; font-weight: bolder; color: black">Fattener Lines</a>
-				<a href="breeder.html" style="font-size: 30px;text-decoration: none; margin: 20px 30px 0px 30px; font-weight: bolder; color: black">Breeder Lines</a>
+				<a href="Piglet.php" style="font-size: 30px;text-decoration: none;border-bottom: 2px solid #000; margin: 20px 30px 0px 30px; font-weight: bolder;color: black">Piglet Lines</a>
+				<a href="Fattener.php" style="font-size: 30px;text-decoration: none; margin: 20px 30px 0px 30px; font-weight: bolder; color: black">Fattener Lines</a>
+				<a href="Breeder.php" style="font-size: 30px;text-decoration: none; margin: 20px 30px 0px 30px; font-weight: bolder; color: black">Breeder Lines</a>
 				</br>
 				<table style="margin-top: 30px;">
 					<tr>

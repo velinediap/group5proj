@@ -33,8 +33,8 @@
 <body style="background-image: url('images/bg.jpg'); margin: 0px;">
   <div style="background-color: rgba(0,0,0,0.8); padding: 20px 0px;"> 
     <center>
-      <a href="home.html" style="" class="menu-active">Home</a>
-      <a href="piglet.html" style="" class="menu">Products</a>
+      <a href="index.php" style="" class="menu-active">Home</a>
+      <a href="Piglet.php" style="" class="menu">Products</a>
       <a href="#" style="" class="menu">What's this</a>
     </center>
   </div>
@@ -51,9 +51,9 @@
   <div>
     <center>
       <div style="margin-top: 20px;">
-        <a href="piglet.html"><img src="images/piglet.png"></a>
-        <a href="fattener.html"><img src="images/fattener.png"></a>
-        <a href="breeder.html"><img src="images/breeder.png"></a>
+        <a href="Piglet.php"><img src="images/Piglet.png"></a>
+        <a href="Fattener.php"><img src="images/Fattener.png"></a>
+        <a href="Breeder.php"><img src="images/Breeder.png"></a>
       </div>
     </center>
   </div>
